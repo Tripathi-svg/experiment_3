@@ -4,10 +4,10 @@ more about c++and data structures
 A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
 
 👨‍🎓 Student Information
-Name: Updesh Arora
-PRN: 24070123124
+Name: Antriksh Tripathi
+PRN: 24070123019
 Branch: ENTC
-Class: B-3
+Class: A-1
 ⚙️ C++ Experiment 3: Understanding and Using Decision-Making Statements
 🎯 Aim
 To learn how decision-making works in C++ using if, else if, and else.
